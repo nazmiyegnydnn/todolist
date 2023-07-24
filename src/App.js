@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="project">
     <header>
-      <h1>MY TODO LİST</h1>
+      <h1>MY TODO LİST PROJECT</h1>
     </header>
     <Form/>
     </div>
